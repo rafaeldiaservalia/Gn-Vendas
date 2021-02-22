@@ -63,7 +63,7 @@ CREATE TABLE IF NOT EXISTS produtos (
 ALTER TABLE produtos ADD FOREIGN KEY (produto_id) REFERENCES compras (produto_id)
 ```
 
-7º - Abra o arquivo ___Conexao.php__ que está na pasta config e modifique as informações de acordo com os dados de acesso ao seu banco de dados.
+7º - Abra o arquivo __Conexao.php__ que está na pasta config e modifique as informações de acordo com os dados de acesso ao seu banco de dados.
 
 ```
 $db_host = "localhost";
