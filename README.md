@@ -6,9 +6,9 @@
 
 2º - Para testar no ambiente local (windows), você pode usar o __WampServer__.
 
-3º - Se você estive usando o WampServer, acesse o caminho ### c:\wamp ou c:\wamp64###, em seguida abra a pasta ###www###  e  crie uma pasta chamada: ### Gn-Vendas###  (sugestão) 
+3º - Se você estive usando o WampServer, acesse o caminho __c:\wamp ou c:\wamp64__, em seguida abra a pasta __www__  e  crie uma pasta chamada: __Gn-Vendas__  (sugestão) 
 
-4º - Copie todos os arquivos do projeto (passo 1) para a pasta ###Gn-Vendas###  (passo 3)
+4º - Copie todos os arquivos do projeto (passo 1) para a pasta __Gn-Vendas__  (passo 3)
 
 Estrutura de pasta e arquivos depois de ralizados os passos anteriores:  
  
@@ -33,7 +33,7 @@ Estrutura de pasta e arquivos depois de ralizados os passos anteriores:
 
 ```
 
-5º - Abra o ### http://localhost/phpmyadmin/### e crie um banco de dados chamado ### GN-VENDAS###  (sugestão) OU crie o banco de dados via prompt de comandos. ### 
+5º - Abra o __http://localhost/phpmyadmin/__ e crie um banco de dados chamado __GN-VENDAS__  (sugestão) OU crie o banco de dados via prompt de comandos.
 
 6º - Selecione o banco de dados criado e crie as tabelas abaixo:
  
@@ -70,7 +70,4 @@ $db_senha = ""; //senha do usuario do banco de dados
 $db_driver = "mysql";
 ```
 
-8º - Abra o navegador de internet e digite ### http://localhost/Gn-Vendas/###  e teste o funcionamento sistema.
-
-
-Versão 1.0
+8º - Abra o navegador de internet e digite __http://localhost/Gn-Vendas/__  e teste o funcionamento sistema
