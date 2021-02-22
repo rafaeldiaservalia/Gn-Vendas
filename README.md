@@ -70,4 +70,4 @@ $db_senha = ""; //senha do usuario do banco de dados
 $db_driver = "mysql";
 ```
 
-8º - Abra o navegador de internet e digite __http://localhost/Gn-Vendas/__  e teste o funcionamento sistema
+8º - Abra o navegador de internet e digite __http://localhost/Gn-Vendas/__  e teste o funcionamento do sistema
