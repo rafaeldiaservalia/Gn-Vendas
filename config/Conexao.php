@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Description of Conexao
- *
- * @author rafael
- */ 
 class Conexao
 {
     protected static $conn;
