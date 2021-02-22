@@ -41,7 +41,7 @@ CREATE DATABASE GN_VENDAS
 6º - Selecione o banco de dados criado e crie as tabelas abaixo:
  
 ```
-CREATE TABLE IF NOT EXISTS compras (
+CREATE TABLE compras (
   compra_id int(11) NOT NULL AUTO_INCREMENT,
   nome_cliente varchar(100) NOT NULL,
   cpf_cliente varchar(11) NOT NULL,
@@ -53,7 +53,7 @@ CREATE TABLE IF NOT EXISTS compras (
   PRIMARY KEY (compra_id)
 )
 
-CREATE TABLE IF NOT EXISTS produtos (
+CREATE TABLE produtos (
   produto_id int(11) NOT NULL AUTO_INCREMENT,
   nome varchar(100) NOT NULL,
   valor decimal(15,2) NOT NULL,
