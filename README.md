@@ -1,4 +1,8 @@
-#__Gn-Vendas__
+# Gn-Vendas-MVC
+
+#  Projeto feito em MVC => https://github.com/rafaeldiaservalia/Gn-Vendas-MVC/
+
+Projeto de compra de produtos com boleto Gerencianet
 
 ### Para instalar/configurar este sistema, siga os passos abaixo: ### 
 
