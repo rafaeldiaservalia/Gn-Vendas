@@ -6,7 +6,7 @@
 
 2º - Para testar no ambiente local (windows), você pode usar o __WampServer__.
 
-3º - Se você estive usando o WampServer, acesse o caminho __c:\wamp ou c:\wamp64__, em seguida abra a pasta __www__  e  crie uma pasta chamada: __Gn-Vendas__  (sugestão) 
+3º - Se você estiver usando o WampServer, acesse o caminho __c:\wamp ou c:\wamp64__, em seguida abra a pasta __www__  e  crie uma pasta chamada: __Gn-Vendas__  (sugestão) 
 
 4º - Copie todos os arquivos do projeto (passo 1) para a pasta __Gn-Vendas__  (passo 3)
 
