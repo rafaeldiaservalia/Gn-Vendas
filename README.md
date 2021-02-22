@@ -1,4 +1,4 @@
-"# Gn-Vendas" 
+#__Gn-Vendas__
 
 Para usar esse sistema, siga os passo abaixo:
 
