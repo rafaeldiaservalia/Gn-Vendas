@@ -1,10 +1,10 @@
 #__Gn-Vendas__
 
-### Para usar esse sistema, siga os passo abaixo: ### 
+### Para usar esse sistema, siga os passos abaixo: ### 
 
 1º - Baixar o projeto (todos os aquivos) para seu computador.
 
-2º - Para testar no ambiente local (windows), você pode usar o ### WampServer###.
+2º - Para testar no ambiente local (windows), você pode usar o __WampServer__.
 
 3º - Se você estive usando o WampServer, acesse o caminho ### c:\wamp ou c:\wamp64###, em seguida abra a pasta ###www###  e  crie uma pasta chamada: ### Gn-Vendas###  (sugestão) 
 
