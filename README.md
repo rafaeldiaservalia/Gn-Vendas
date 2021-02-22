@@ -1,6 +1,6 @@
 #__Gn-Vendas__
 
-### Para usar esse sistema, siga os passos abaixo: ### 
+### Para usar instalar este sistema, siga os passos abaixo: ### 
 
 1º - Baixar o projeto (todos os aquivos) para seu computador.
 
